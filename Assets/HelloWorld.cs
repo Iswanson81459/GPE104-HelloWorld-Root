@@ -9,6 +9,7 @@ public class HelloWorld : MonoBehaviour
     {
         Debug.Log("Hello World");
 
+        Debug.Log("Test Branch");
     }
 
     // Update is called once per frame
